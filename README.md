@@ -12,7 +12,7 @@ compliance with GDPR and can also be used when traveling between countries.
 ## Documentation
 
 - [PEPP-PT High-Level Overview](./PEPP-PT-high-level-overview.pdf)
-- [PEPP-PT Building Blocks for a Pandemic Management System using Proximity Tracing](./PEPP-PT-building-blocks.pdf)
+- [PEPP-PT Building Blocks for Pandemic Management Systems using Proximity Tracing](./PEPP-PT-building-blocks.pdf)
 - [PEPP-PT Data Protection and Information Security Architecture: Illustrated on German Implementation](./PEPP-PT-data-protection-information-security-architecture.pdf)
 
 The building blocks will be published as separate documents step by step as we
