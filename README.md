@@ -11,60 +11,75 @@ compliance with GDPR and can also be used when traveling between countries.
 
 ## Documentation
 
+Main documents:
+
 - [PEPP-PT High-Level Overview](./PEPP-PT-high-level-overview.pdf)
 - [PEPP-PT Building Blocks for Pandemic Management Systems using Proximity Tracing](./PEPP-PT-building-blocks.pdf)
-- [PEPP-PT Data Protection and Information Security Architecture: Illustrated on German Implementation](./PEPP-PT-data-protection-information-security-architecture.pdf)
+- [PEPP-PT Data Protection and Information Security Architecture: Illustrated on German Implementation](./10-data-protection/PEPP-PT-data-protection-information-security-architecture-Germany.pdf)
 
 The building blocks will be published as separate documents step by step as we
 complete the editing process.
 
 ![building blocks](./img/blocks.png)
 
-### Smartphone App
+### Smartphone app
 
 Folder [01-smartphone-app](./01-smartphone-app)
 
-### Infection Status Verification Service
+```
+01-smartphone-app/PEPP-PT-sample-app.pdf
+```
+
+### Infection status verification service
 
 Folder [02-infection-verification](./02-infection-verification)
 
-### Proximity Warning Service
+### Proximity warning service
 
 Folder [03-proximity-warning](./03-proximity-warning)
 
-### National Health Policy Framework
+### National health policy framework
 
 Folder [04-health-policy](./04-health-policy)
 
-### Pandemic Management Planning Framework
+### Pandemic management planning framework
 
 Folder [05-pandemic-framework](./05-pandemic-framework)
 
-### Epidemiological Validation Frameworks
+### Epidemiological validation frameworks
 
 Folder [06-epidemiological-validation](./06-epidemiological-validation)
 
-### Operational Pandemic Management Backbone
+### Operational pandemic management backbone
 
 Folder [07-operational-backbone](./07-operational-backbone)
 
-### Planning Pandemic Management Backbone
+### Planning pandemic management backbone
 
 Folder [08-planning-backbone](./08-planning-backbone)
 
-### Inter-Country Federation Service
+### Inter-country federation service
 
 Folder [09-federation](./09-federation)
 
-### Data Protection Protocol
+### Data protection protocol
 
 Folder [10-data-protection](./10-data-protection)
 
-### Secure Communication Protocol
+```
+10-data-protection/PEPP-PT-data-protection-information-security-architecture-Germany.pdf
+10-data-protection/ROBERT-specification-EN-v1_0.pdf
+```
+
+The primary location of the ROBERT approach is
+<https://github.com/ROBERT-proximity-tracing/documents>.  Please use the
+primary location for comments and discussions about ROBERT.
+
+### Secure communication protocol
 
 Folder [11-secure-communication](./11-secure-communication)
 
-### Proximity Measurement
+### Proximity measurement
 
 Folder [12-proximity-measurement](./12-proximity-measurement):
 
@@ -94,12 +109,13 @@ solutions based on PEPP-PT are released to the general public.
 
 ## Contributing
 
-The project is currently not accepting contributions but aims to do so in the
-near future.
+The project does not accept contributions through GitHub at this point.
+
+Details will be described in [CONTRIBUTING](./CONTRIBUTING.md).
 
 ## Questions or feedback
 
-For any other questions or feedback, please visit the
+You may send questions or feedback to the
 [PEPP-PT discussion group](https://groups.google.com/forum/#!forum/pepp-pt-discussion).
 
 ## License
