@@ -89,6 +89,8 @@ These repositories contain the complete and comprehensive code (including full d
 
 We will release the code under such an [OSI certified](https://opensource.org/licenses) open source license that requires disclosure of the code of derived works, like the [European Union Public License](https://de.wikipedia.org/wiki/European_Union_Public_Licence) (EUPL) or [GNU General Public License](https://de.wikipedia.org/wiki/GNU_General_Public_License) (GPL).
 
+As is usual with open-source software, we will conduct an open development process and not just publish finished code. This also applies to the definition of milestones and goals as well as to conceptual and strategic activities.
+
 Our goal when open sourcing the code is to be transparent and establish
 a dialog with the community.  Through this transparency and ongoing discussion,
 our hope is to build trust and ensure any concerns raised are resolved before
@@ -96,8 +98,8 @@ solutions based on PEPP-PT are released to the general public.
 
 ## Contributing
 
-The project is currently not accepting contributions but aims to do so in the
-near future.
+The project welcomes contributions. We will release a Community Code of Conduct based on [Contributor Covenant](https://www.contributor-covenant.org) soon.
+
 
 ## Questions or feedback
 
