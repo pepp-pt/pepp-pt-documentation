@@ -38,6 +38,10 @@ Folder [02-infection-verification](./02-infection-verification)
 
 Folder [03-proximity-warning](./03-proximity-warning)
 
+```
+03-proximity-warning/PEPP-PT-overview-proximity-warning.pdf
+```
+
 ### National health policy framework
 
 Folder [04-health-policy](./04-health-policy)

@@ -1,5 +1,9 @@
 # PEPP-PT Documentation Changelog
 
+## pepp-pt-documentation-0.2.0, 2020-04-20
+
+* New document `03-proximity-warning/PEPP-PT-overview-proximity-warning.pdf`
+
 ## pepp-pt-documentation-0.1.0, 2020-04-19
 
 * New document `10-data-protection/ROBERT-specification-EN-v1_0.pdf`.  The primary location for ROBERT is <https://github.com/ROBERT-proximity-tracing/documents>.
