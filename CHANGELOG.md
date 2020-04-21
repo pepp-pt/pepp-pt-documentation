@@ -1,5 +1,10 @@
 # PEPP-PT Documentation Changelog
 
+## pepp-pt-documentation-0.3.0, 2020-04-21
+
+* New document `10-data-protection/ROBERT-concept-illustration.pdf`
+* Polished `10-data-protection/PEPP-PT-data-protection-information-security-architecture-Germany.pdf`
+
 ## pepp-pt-documentation-0.2.0, 2020-04-20
 
 * New document `03-proximity-warning/PEPP-PT-overview-proximity-warning.pdf`
