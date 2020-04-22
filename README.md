@@ -72,6 +72,7 @@ Folder [10-data-protection](./10-data-protection)
 
 ```
 10-data-protection/PEPP-PT-data-protection-information-security-architecture-Germany.pdf
+10-data-protection/ROBERT-concept-illustration.pdf
 10-data-protection/ROBERT-specification-EN-v1_0.pdf
 ```
 

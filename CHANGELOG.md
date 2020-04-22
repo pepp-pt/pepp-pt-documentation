@@ -1,5 +1,9 @@
 # PEPP-PT Documentation Changelog
 
+## pepp-pt-documentation-0.4.0, 2020-04-22
+
+* New document "Stopp-Corona App German TAN System", `10-data-protection/PEPP-PT-stop-corona-app-de-tan.pdf`
+
 ## pepp-pt-documentation-0.3.0, 2020-04-21
 
 * New document `10-data-protection/ROBERT-concept-illustration.pdf`
