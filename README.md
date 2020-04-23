@@ -95,6 +95,10 @@ Folder [12-proximity-measurement](./12-proximity-measurement):
 12-proximity-measurement/distance-measurements-and-classification-20200406.pdf
 ```
 
+## FAQ
+
+See [FAQ](./FAQ.md).
+
 ## Open source strategy
 
 PEPP-PT is preparing a number of source code repositories to be open sourced.
