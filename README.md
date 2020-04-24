@@ -92,6 +92,7 @@ Folder [12-proximity-measurement](./12-proximity-measurement):
 12-proximity-measurement/2020-04-01-BW-report-epi-mod.pdf
 12-proximity-measurement/2020-04-07-BW-report-epi-mod.pdf
 12-proximity-measurement/2020-04-09-BW-report-epi-mod.pdf
+12-proximity-measurement/PEPP-PT-proximity-measurement-spec.pdf
 12-proximity-measurement/distance-measurements-and-classification-20200406.pdf
 ```
 
@@ -106,8 +107,8 @@ PEPP-PT is preparing a number of source code repositories to be open sourced.
 These repositories include:
 
 * Backend services
-* Android application core libraries
-* Android application reference implementation
+* [Android application core library](https://github.com/pepp-pt/pepp-pt-ntk-core-android)
+* [Android application reference implementation](https://github.com/pepp-pt/pepp-pt-ntk-sample-android)
 * iOS application core libraries
 * iOS application reference implementation
 

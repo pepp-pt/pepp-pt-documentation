@@ -1,8 +1,13 @@
 # PEPP-PT Documentation Changelog
 
+## pepp-pt-documentation-0.6.0, 2020-04-24
+
+* New document `12-proximity-measurement/PEPP-PT-proximity-measurement-spec.pdf`
+* Updated FAQ
+
 ## pepp-pt-documentation-0.5.0, 2020-04-23
 
-* Started FAQ.
+* Initial FAQ
 
 ## pepp-pt-documentation-0.4.0, 2020-04-22
 
